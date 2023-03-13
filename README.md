@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evamiliczka
-- 👀 I’m interested in web design and web development
-- 🌱 I’m currently learning JavaScript, PhP
+- 👀 I’m interested in Web design and Web development
+- 🌱 I’m currently learning JavaScript, React JS, PhP, HTML, CSS, SCSS
 <!-- - 💞️ I’m looking to collaborate on ...-->
 - 📫 You can reach me via email: eva.miliczka@gmail.com
 
